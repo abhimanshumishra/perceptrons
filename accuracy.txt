@@ -1,0 +1,60 @@
+Accuracy of perceptron with learning rate 0.01 and 100 epochs on test set after removing stopwords from None file is: 85.565
+Accuracy of perceptron with learning rate 0.02 and 100 epochs on test set after removing stopwords from None file is: 85.565
+Accuracy of perceptron with learning rate 0.03 and 100 epochs on test set after removing stopwords from None file is: 88.075
+Accuracy of perceptron with learning rate 0.04 and 100 epochs on test set after removing stopwords from None file is: 89.121
+Accuracy of perceptron with learning rate 0.05 and 100 epochs on test set after removing stopwords from None file is: 88.703
+Accuracy of perceptron with learning rate 0.1 and 100 epochs on test set after removing stopwords from None file is: 90.377
+Accuracy of perceptron with learning rate 0.5 and 100 epochs on test set after removing stopwords from None file is: 91.004
+Accuracy of perceptron with learning rate 0.8 and 100 epochs on test set after removing stopwords from None file is: 93.515
+Accuracy of perceptron with learning rate 1 and 100 epochs on test set after removing stopwords from None file is: 92.05
+Accuracy of perceptron with learning rate 0.01 and 200 epochs on test set after removing stopwords from None file is: 85.774
+Accuracy of perceptron with learning rate 0.02 and 200 epochs on test set after removing stopwords from None file is: 87.448
+Accuracy of perceptron with learning rate 0.03 and 200 epochs on test set after removing stopwords from None file is: 87.657
+Accuracy of perceptron with learning rate 0.04 and 200 epochs on test set after removing stopwords from None file is: 89.331
+Accuracy of perceptron with learning rate 0.05 and 200 epochs on test set after removing stopwords from None file is: 88.703
+Accuracy of perceptron with learning rate 0.1 and 200 epochs on test set after removing stopwords from None file is: 90.167
+Accuracy of perceptron with learning rate 0.5 and 200 epochs on test set after removing stopwords from None file is: 93.096
+Accuracy of perceptron with learning rate 0.8 and 200 epochs on test set after removing stopwords from None file is: 91.632
+Accuracy of perceptron with learning rate 1 and 200 epochs on test set after removing stopwords from None file is: 93.096
+Accuracy of perceptron with learning rate 0.01 and 150 epochs on test set after removing stopwords from None file is: 86.611
+Accuracy of perceptron with learning rate 0.02 and 150 epochs on test set after removing stopwords from None file is: 87.238
+Accuracy of perceptron with learning rate 0.03 and 150 epochs on test set after removing stopwords from None file is: 87.238
+Accuracy of perceptron with learning rate 0.04 and 150 epochs on test set after removing stopwords from None file is: 88.285
+Accuracy of perceptron with learning rate 0.05 and 150 epochs on test set after removing stopwords from None file is: 87.866
+Accuracy of perceptron with learning rate 0.1 and 150 epochs on test set after removing stopwords from None file is: 92.259
+Accuracy of perceptron with learning rate 0.5 and 150 epochs on test set after removing stopwords from None file is: 91.632
+Accuracy of perceptron with learning rate 0.8 and 150 epochs on test set after removing stopwords from None file is: 92.05
+Accuracy of perceptron with learning rate 1 and 150 epochs on test set after removing stopwords from None file is: 93.096
+Accuracy of perceptron with learning rate 0.01 and 100 epochs on test set after removing stopwords from stopwords.txt file is: 85.983
+Accuracy of perceptron with learning rate 0.02 and 100 epochs on test set after removing stopwords from stopwords.txt file is: 85.356
+Accuracy of perceptron with learning rate 0.03 and 100 epochs on test set after removing stopwords from stopwords.txt file is: 87.029
+Accuracy of perceptron with learning rate 0.04 and 100 epochs on test set after removing stopwords from stopwords.txt file is: 89.331
+Accuracy of perceptron with learning rate 0.05 and 100 epochs on test set after removing stopwords from stopwords.txt file is: 90.586
+Accuracy of perceptron with learning rate 0.1 and 100 epochs on test set after removing stopwords from stopwords.txt file is: 88.912
+Accuracy of perceptron with learning rate 0.5 and 100 epochs on test set after removing stopwords from stopwords.txt file is: 91.841
+Accuracy of perceptron with learning rate 0.8 and 100 epochs on test set after removing stopwords from stopwords.txt file is: 92.259
+Accuracy of perceptron with learning rate 1 and 100 epochs on test set after removing stopwords from stopwords.txt file is: 92.887
+Accuracy of perceptron with learning rate 0.01 and 200 epochs on test set after removing stopwords from stopwords.txt file is: 85.774
+Accuracy of perceptron with learning rate 0.02 and 200 epochs on test set after removing stopwords from stopwords.txt file is: 86.192
+Accuracy of perceptron with learning rate 0.03 and 200 epochs on test set after removing stopwords from stopwords.txt file is: 89.54
+Accuracy of perceptron with learning rate 0.04 and 200 epochs on test set after removing stopwords from stopwords.txt file is: 89.121
+Accuracy of perceptron with learning rate 0.05 and 200 epochs on test set after removing stopwords from stopwords.txt file is: 89.749
+Accuracy of perceptron with learning rate 0.1 and 200 epochs on test set after removing stopwords from stopwords.txt file is: 91.423
+Accuracy of perceptron with learning rate 0.5 and 200 epochs on test set after removing stopwords from stopwords.txt file is: 92.259
+Accuracy of perceptron with learning rate 0.8 and 200 epochs on test set after removing stopwords from stopwords.txt file is: 91.213
+Accuracy of perceptron with learning rate 1 and 200 epochs on test set after removing stopwords from stopwords.txt file is: 91.841
+Accuracy of perceptron with learning rate 0.01 and 150 epochs on test set after removing stopwords from stopwords.txt file is: 85.356
+Accuracy of perceptron with learning rate 0.02 and 150 epochs on test set after removing stopwords from stopwords.txt file is: 87.448
+Accuracy of perceptron with learning rate 0.03 and 150 epochs on test set after removing stopwords from stopwords.txt file is: 88.494
+Accuracy of perceptron with learning rate 0.04 and 150 epochs on test set after removing stopwords from stopwords.txt file is: 89.121
+Accuracy of perceptron with learning rate 0.05 and 150 epochs on test set after removing stopwords from stopwords.txt file is: 88.075
+Accuracy of perceptron with learning rate 0.1 and 150 epochs on test set after removing stopwords from stopwords.txt file is: 92.259
+Accuracy of perceptron with learning rate 0.5 and 150 epochs on test set after removing stopwords from stopwords.txt file is: 92.259
+Accuracy of perceptron with learning rate 0.8 and 150 epochs on test set after removing stopwords from stopwords.txt file is: 91.423
+Accuracy of perceptron with learning rate 1 and 150 epochs on test set after removing stopwords from stopwords.txt file is: 91.841
+Accuracy of Naive Bayes on test set after removing stopwords from stopwords.txt with yes stemming file is: 93.933
+Accuracy of Naive Bayes on test set after removing stopwords from stopwords.txt with no stemming file is: 94.561
+Accuracy of Naive Bayes on test set without stopword removal with no stemming is: 94.561
+Accuracy of Naive Bayes on test set without stopword removal with yes stemming is: 93.933
+
+
